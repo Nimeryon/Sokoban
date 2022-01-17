@@ -1,0 +1,13 @@
+12
+11
+Wall,Wall,Wall,Wall,Wall,Wall,Wall,Wall,Wall,Wall,Wall,Wall
+Wall,None,None,None,None,None,None,Wall,None,None,None,Wall
+Wall,None,Wall,None,Box,None,None,None,None,None,None,Wall
+Wall,None,Wall,Wall,Box,Wall,Wall,Wall,Wall,Box,Wall,Wall
+Wall,None,None,None,None,None,Player,Wall,None,None,None,Wall
+Wall,Wall,Wall,Wall,Wall,Wall,None,Box,None,None,None,Wall
+None,None,None,None,Wall,Wall,None,Wall,Wall,Wall,Wall,Wall
+None,None,None,None,Wall,None,None,Goal,Goal,Goal,Goal,Wall
+None,None,None,None,Wall,None,None,Wall,Wall,Wall,Wall,Wall
+None,None,None,None,Wall,None,None,Wall,None,None,None,None
+None,None,None,None,Wall,Wall,Wall,Wall,None,None,None,None

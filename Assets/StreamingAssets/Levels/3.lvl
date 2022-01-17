@@ -1,0 +1,9 @@
+9
+7
+Wall,Wall,Wall,Wall,Wall,Wall,Wall,Wall,Wall
+Wall,Goal,None,None,None,None,None,Goal,Wall
+Wall,None,None,None,None,None,None,None,Wall
+Wall,None,None,Box,Box,Box,None,None,Wall
+Wall,None,None,None,None,None,None,None,Wall
+Wall,Goal,None,None,None,None,None,Player,Wall
+Wall,Wall,Wall,Wall,Wall,Wall,Wall,Wall,Wall
